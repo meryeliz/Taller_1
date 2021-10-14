@@ -3,8 +3,6 @@
 #include <string.h>
 #include <limits.h>
 
-/*  NOMBRE Y APELLIDO: MARIANA ELIZABETH CRUZ
-*/
 
 
 //definicion de estructuras
